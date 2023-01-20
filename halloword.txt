@@ -8,3 +8,6 @@ Hallo world
 dummy text dummy text dummy text
 
 mdsdflksjfosdjfdfjopsdjfsdopfjdosfjpofjdspofjpjpojopoj
+
+
+new test command 
