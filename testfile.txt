@@ -3,3 +3,5 @@ This is test file or testing purpose.
 This is new line added
 
 This is new 2nd line added
+
+This is new 3rd line added
